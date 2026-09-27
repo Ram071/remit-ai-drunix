@@ -1,0 +1,14 @@
+# Environment & Secret keys
+.env
+*.env
+
+# Python files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Node / React files (if in same repo)
+node_modules/
+build/
+.DS_Store
